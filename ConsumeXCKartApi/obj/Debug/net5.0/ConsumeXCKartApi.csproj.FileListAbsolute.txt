@@ -1,0 +1,5 @@
+C:\Users\XCT\source\repos\XCKartApi\ConsumeXCKartApi\obj\Debug\net5.0\ConsumeXCKartApi.csproj.AssemblyReference.cache
+C:\Users\XCT\source\repos\XCKartApi\ConsumeXCKartApi\obj\Debug\net5.0\ConsumeXCKartApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XCT\source\repos\XCKartApi\ConsumeXCKartApi\obj\Debug\net5.0\ConsumeXCKartApi.AssemblyInfoInputs.cache
+C:\Users\XCT\source\repos\XCKartApi\ConsumeXCKartApi\obj\Debug\net5.0\ConsumeXCKartApi.AssemblyInfo.cs
+C:\Users\XCT\source\repos\XCKartApi\ConsumeXCKartApi\obj\Debug\net5.0\ConsumeXCKartApi.csproj.CoreCompileInputs.cache
